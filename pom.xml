@@ -15,7 +15,7 @@
         <junit.version>5.7.2</junit.version>
         <sql.version>3.42.0.0</sql.version>
         <!--        <hibernate-version>5.4.24.final</hibernate-version>-->
-        <hibernate-version>6.5.2.Final</hibernate-version>
+        <hibernate-version>6.5.2.Final</hibernate-version> //5.4.0.Final
         <flyway.version>8.5.13</flyway.version>
         <surefire.version>2.22.2</surefire.version>
     </properties>
